@@ -1,0 +1,2 @@
+# Kauppalista
+Kauppalista kaupassa käymiseen
